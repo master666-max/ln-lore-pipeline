@@ -25,6 +25,7 @@ metadata:
 | [references/stage-guide.md](references/stage-guide.md) | 阶段1~6：语料层/分析/知识库/年表/世界书格式军规/角色卡写法 | 建设新内容时 |
 | [references/review-system.md](references/review-system.md) | 阶段7：机械审计＋十维四对照审查＋典型问题模式＋外部吸收 | 做审查时 |
 | [references/governance.md](references/governance.md) | 总则军规/判例治理/合并规格/子代理协议/特别设定通道 | 任何阶段开始前先读军规；治理决策时 |
+| [references/publish-github.md](references/publish-github.md) | GitHub 仓库绑定信息与发布速记 | GitHub 发布/更新版本时 |
 | [references/publish.md](references/publish.md) | 阶段9：PNG注入/自动挂载/大统合卡/发布坑清单 | 发布交付时 |
 | [references/git-governance.md](references/git-governance.md) | Git 版本治理：init/.gitignore 模板/批次双 commit/回滚/发布 tag | git 化工作区、批次提交、GitHub 发布时 |
 | [references/checklists.md](references/checklists.md) | 五要素发现格式/审核门/红线速查/progress断点协议 | 审查与修复执行时 |
