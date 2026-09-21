@@ -1,16 +1,21 @@
-LICENSE / 授权说明
+MIT License
 
-本仓库内容双授权如下：
+Copyright (c) 2026 master666-max
 
-1. 文档与模板内容（SKILL.md、references/、assets/ 中的文档与模板）
-   以「署名 4.0 国际（CC-BY-4.0）」授权。
-   摘要：可自由共享与改编，须署名（ln-lore-pipeline 项目）。
-   完整条文见：https://creativecommons.org/licenses/by/4.0/legalcode.zh
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-2. 脚本（scripts/ 目录）
-   以「Apache License 2.0」授权。
-   完整条文见：https://www.apache.org/licenses/LICENSE-2.0.txt
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-使用本技能产出的角色卡、世界书、年表等内容归使用者所有；
-使用者须自行确保对源作品语料的使用符合相应版权要求，
-本技能方法论文档不包含任何小说原文段落。
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
